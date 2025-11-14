@@ -2,7 +2,7 @@ body {
 font-family: Arial, Verdana;
 background: #000000;
 color: #ffffff;
-margin: 20px,20px, none, 20px;
+margin: 20px 20px 0px 20px;
 
 }
 h1{
@@ -19,7 +19,7 @@ h2 {
 } 
 p {
     font-size: 24px;
-    padding: 10px, 10px, none, none;
+    padding: 10px 0px 0px 10px;
 }
 img {
     width: 250px;
@@ -80,5 +80,5 @@ footer{
 footer p {
     font-size: 20px;
     text-align: right;
-    padding: 15px, 15px, 15px, 0;
+    padding: 15px  15px 15px 0px;
 }
